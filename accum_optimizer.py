@@ -1,5 +1,3 @@
-#! -*- coding: utf-8 -*-
-
 from keras.optimizers import Optimizer
 import keras.backend as K
 
